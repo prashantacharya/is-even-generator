@@ -1,5 +1,4 @@
 const fs = require('fs');
-const prettier = require('prettier');
 const noOfItems = +process.argv[2] || 1000;
 
 function isEvenGenerator(maxLimit) {
