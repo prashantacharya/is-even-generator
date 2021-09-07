@@ -19,7 +19,7 @@ node is-even-generator 100000
 
 use the function in your code
 ```js
-const isEven = require('script');
+const isEven = require('./script');
 
 isEven(1000) // returns true
 ```
